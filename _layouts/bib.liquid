@@ -184,14 +184,14 @@
 
     <!-- Links/Buttons -->
     <div class="links">
+      {% if entry.award -%}
+        <div class="periodical"><font color="#FBA518"><b><i class="fa fa-solid fa-star"></i>{{entry.award}}</b></font></div>
+      {%- endif %}
       {% if entry.tldr %}
         <a class="award btn btn-sm z-depth-0" role="button">
           {%- if entry.award_name %}{{ entry.award_name }}{% else %}TL;DR{% endif -%}
         </a>
       {% endif %}
-      {% if entry.award -%}
-        <div class="periodical"><font color="#FBA518"><b><i class="fa fa-solid fa-star"></i>{{entry.award}}</b></font></div>
-      {%- endif %}
       {% if entry.abstract %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
       {% endif %}
