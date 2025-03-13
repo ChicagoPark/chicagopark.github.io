@@ -8,6 +8,10 @@
 "Vision":
   color: "#009f36"
 
+"JMIV":
+  color: "#FFC145"
+  url: https://link.springer.com/journal/10851
+
 "CAMSAP":
   color: "#FFC145"
   url: https://ieeexplore.ieee.org/xpl/conhome/1001691/all-proceedings
