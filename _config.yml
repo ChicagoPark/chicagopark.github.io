@@ -302,6 +302,7 @@ filtered_bibtex_keywords:
     annotation,
     arxiv,
     award,
+    tldr,
     award_name,
     bibtex_show,
     blog,
