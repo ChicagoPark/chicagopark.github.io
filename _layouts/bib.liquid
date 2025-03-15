@@ -346,6 +346,14 @@
       </div>
     {% endif %}
 
+    {% if entry.tldr %}
+      <!-- Hidden TLDR block -->
+      <div class="tldr hidden d-print-inline">
+        <p>{{ entry.tldr | markdownify }}</p>
+      </div>
+    {% endif %}
+
+
     {% if entry.abstract %}
       <!-- Hidden abstract block -->
       <div class="abstract hidden">
