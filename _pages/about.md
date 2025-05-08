@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate in Generative AI, <a href='https://cigroup.wustl.edu/'>WashU</a>.
+subtitle: Ph.D. Student in Generative AI, <a href='https://cigroup.wustl.edu/'>WashU</a>.
 
 profile:
   align: right
