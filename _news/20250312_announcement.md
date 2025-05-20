@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [Efficient Model-based Deep Learning via Network Pruning and Fine-Tuning](https://www.researchsquare.com/article/rs-5286110/v1) has been accepted in Journal of Mathematical Imaging and Vision.
+Our paper [Efficient Model-based Deep Learning via Network Pruning and Fine-Tuning](https://www.researchsquare.com/article/rs-5286110/v1) has been accepted at Journal of Mathematical Imaging and Vision.
