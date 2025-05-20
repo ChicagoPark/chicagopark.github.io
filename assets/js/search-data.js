@@ -387,7 +387,7 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-plug-and-play-priors-as-a-score-based-method-available",
           title: 'New paper Plug-and-Play Priors as a Score-Based Method available.',
           description: "",
-          section: "News",},{id: "news-our-paper-efficient-model-based-deep-learning-via-network-pruning-and-fine-tuning-has-been-accepted-in-journal-of-mathematical-imaging-and-vision",
+          section: "News",},{id: "news-our-paper-efficient-model-based-deep-learning-via-network-pruning-and-fine-tuning-has-been-accepted-at-journal-of-mathematical-imaging-and-vision",
           title: 'Our paper Efficient Model-based Deep Learning via Network Pruning and Fine-Tuning has been...',
           description: "",
           section: "News",},{id: "news-new-paper-measurement-score-based-diffusion-model-available",
