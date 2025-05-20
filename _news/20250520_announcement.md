@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [Plug-and-Play Priors as a Score-Based Method](https://wustl-cig.github.io/scorepnp) has been accepted in [IEEE International Conference on Image Processing (ICIP)](https://2025.ieeeicip.org/).
+Our paper [Plug-and-Play Priors as a Score-Based Method](https://wustl-cig.github.io/scorepnp) has been accepted at [IEEE International Conference on Image Processing (ICIP)](https://2025.ieeeicip.org/).
