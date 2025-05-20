@@ -8,6 +8,10 @@
 "Vision":
   color: "#009f36"
 
+"ICIP":
+  color: "#FE7743"
+  url: https://ieeexplore.ieee.org/xpl/conhome/1000349/all-proceedings
+
 "JMIV":
   color: "#FFC145"
   url: https://link.springer.com/journal/10851
