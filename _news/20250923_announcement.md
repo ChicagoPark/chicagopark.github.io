@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-07-04 08:00:00-0400
+date: 2025-09-23 08:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Our paper [Random Walks with Tweedie: A Unified View of Score-Based Diffusion Models](https://wustl-cig.github.io/randomwalk/) has been accepted for publication in [IEEE Signal Processing Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=79).
+New paper [Measurement Score-Based MRI Reconstruction with Automatic Coil Sensitivity Estimation](https://arxiv.org/abs/2509.18402) available.
