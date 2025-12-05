@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student in Generative AI, <a href='https://engineering.wisc.edu/departments/electrical-computer-engineering/'>UW--Madison</a>.
+subtitle: Ph.D. Student in Generative AI, <a href='https://engineering.wisc.edu/departments/electrical-computer-engineering/'>UW–Madison</a>.
 
 profile:
   align: right
