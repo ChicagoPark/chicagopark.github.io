@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [Measurement Score-Based Diffusion Model](https://wustl-cig.github.io/msmwww/) has been accepted at the International Conference on Learning Representations (ICLR) 2026.
+Our paper [Measurement Score-Based Diffusion Model](https://wustl-cig.github.io/msmwww/) has been accepted at the [International Conference on Learning Representations (ICLR) 2026](https://iclr.cc/).
