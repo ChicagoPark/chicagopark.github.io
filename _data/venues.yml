@@ -24,6 +24,10 @@
   color: "#8C00FF"
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=79
 
+"ICLR":
+  color: "#8C00FF"
+  url: https://iclr.cc/
+
 "arXiv":
   color: "#A31D1D"
   url: https://arxiv.org/
