@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student in Generative AI, <a href='https://engineering.wisc.edu/departments/electrical-computer-engineering/'>UW–Madison</a>.
+subtitle: Ph.D. Student in Electrical & Computer Engineering, <a href='https://engineering.wisc.edu/departments/electrical-computer-engineering/'>UW–Madison</a>.
+
+
 
 profile:
   align: right
@@ -24,4 +26,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second-year Ph.D. student in Generative AI at [UW--Madison](https://engineering.wisc.edu/departments/electrical-computer-engineering/), fortunately working with [Prof. Ulugbek S. Kamilov](https://ukmlv.github.io/). I was a prior research intern at [Los Alamos National Laboratory](https://www.lanl.gov/) in the summer of 2025 and 2024. I graduated summa cum laude with a B.S. in Computer Science at [WashU](https://cigroup.wustl.edu/) in 2024. My research interests lie at the intersection of generative models and their applications to medical and real-world problems.
+I am a second-year Ph.D. student at [UW--Madison](https://engineering.wisc.edu/departments/electrical-computer-engineering/), fortunately working with [Prof. Ulugbek S. Kamilov](https://ukmlv.github.io/). I was a prior research intern at [Los Alamos National Laboratory](https://www.lanl.gov/) in the summer of 2025 and 2024. I graduated summa cum laude with a B.S. in Computer Science at [WashU](https://cigroup.wustl.edu/) in 2024. My research interests lie at the intersection of generative models and their applications to medical and real-world problems.
