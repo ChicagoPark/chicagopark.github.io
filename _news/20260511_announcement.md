@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-04-07 08:00:00-0400
+date: 2026-05-11 08:00:00-0400
 inline: true
 related_posts: false
 ---
 
-New paper [Stochastic Generative Plug-and-Play Priors](https://uw-cig.github.io/sgpnp_page/) available.
+I will join [GE HealthCare](https://www.gehealthcare.com/en-us) as an AI research intern in Seattle.
