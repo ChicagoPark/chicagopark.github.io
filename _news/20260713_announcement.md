@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-06-24 08:00:00-0400
+date: 2026-07-13 08:00:00-0400
 inline: true
 related_posts: false
 ---
 
-New paper [NullFlow: One-Step Generative Reconstruction](https://arxiv.org/abs/2606.22696) available.
+New paper [Next-Dense-Stride Prediction for Multimodal Autoregressive Visual Modeling](https://uw-cig.github.io/densear_page/) available.
