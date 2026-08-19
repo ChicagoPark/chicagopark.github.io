@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will join [GE HealthCare](https://www.gehealthcare.com/en-us) as an AI research intern in Seattle.
+I will join [GE HealthCare](https://www.gehealthcare.com/en-us) as an AI research intern in Bellevue.
