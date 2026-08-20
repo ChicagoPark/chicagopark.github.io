@@ -28,6 +28,10 @@
   color: "#8C00FF"
   url: https://iclr.cc/
 
+"CVPRF":
+  color: "#90CAF9"
+  url: https://cvpr.thecvf.com/
+
 "arXiv":
   color: "#A31D1D"
   url: https://arxiv.org/
