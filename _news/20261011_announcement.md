@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-07-13 08:00:00-0400
+date: 2026-10-11 08:00:00-0400
 inline: true
 related_posts: false
 ---
 
-New paper [Next-Dense-Stride Prediction for Multimodal Autoregressive Visual Modeling](https://uw-cig.github.io/densear_page/) available.
+Recognized as a Top Reviewer for [NeurIPS 2026](https://neurips.cc/).
